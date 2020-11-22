@@ -1,0 +1,11 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.myApp {
+  width: 100%;
+  padding: 7% 0;
+  background-color: #b881dd;
+}
